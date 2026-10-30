@@ -1,0 +1,6 @@
+{
+  "name": "MEDI Nursing Book Store",
+  "description": "মেডি নার্সিং ভর্তি কোচিং যশোর-এর নার্সিং ভর্তি বইসমূহের অফিশিয়াল অনলাইন বুক শপ। দ্রুত ডেলিভারি ও সহজ হোয়াটসঅ্যাপ অর্ডার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
